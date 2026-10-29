@@ -10,3 +10,7 @@ body {
 .floatingText {
   text-align: center;
 }
+
+.nav {
+  margin: 5px;
+}
