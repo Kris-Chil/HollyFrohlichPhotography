@@ -11,6 +11,6 @@ body {
   text-align: center;
 }
 
-.nav {
+.navbar-brand a {
   margin: 5px;
 }
