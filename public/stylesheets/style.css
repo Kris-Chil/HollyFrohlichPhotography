@@ -3,7 +3,7 @@ body {
 }
 
 .contactBtn button {
-  background-color: #4b523f;
+  background-color: #4b523f !important;
   color: #ffffff;
 }
 
@@ -11,6 +11,6 @@ body {
   text-align: center;
 }
 
-.navbar-brand a {
-  margin: 5px;
+.navbar,nav  {
+  padding: 5px !important;
 }
