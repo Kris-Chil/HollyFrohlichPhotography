@@ -1,0 +1,10 @@
+{
+  "name": "hva-static-site",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy-plugin-ejs": "^1.0.0",
+    "ejs": "^3.1.10"
+  }
+}
